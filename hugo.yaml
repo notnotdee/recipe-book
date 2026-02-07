@@ -1,0 +1,23 @@
+baseURL: https://notnotdee.github.io/recipe-book
+languageCode: en-us
+title: recipe book
+theme: PaperMod
+params:
+  title: "recipe book"
+  author: "dee larkin"
+  defaultTheme: dark
+  disableThemeToggle: false
+  homeInfoParams:
+  Title: "Hi there \U0001F44B"
+  Content: >-
+    Welcome to my website.
+menu:
+  # main:
+  #   - identifier: recipes
+  #     name: recipes
+  #     url: /recipes/
+  #     weight: 10
+  #   - identifier: example
+  #     name: example.org
+  #     url: https://example.org
+  #     weight: 30
