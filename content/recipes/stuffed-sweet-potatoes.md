@@ -3,7 +3,7 @@ title: "Lentil stuffed sweet potatoes"
 summary: "Topped with chile-cilantro sauce and crunchies"
 date: 2026-02-06T12:16:37-08:00
 draft: false
-total_time: "5m"
+total_time: "45m"
 prep_time: "5m"
 tags: ["vegan"]
 ---
