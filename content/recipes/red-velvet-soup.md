@@ -27,7 +27,7 @@ tags: ["vegan"]
 | 1/4 tsp | Black pepper | 
 
 
-#### Garnishes
+### Garnishes
 
 Cilantro, cooling pungent masala, lime slices. 
 

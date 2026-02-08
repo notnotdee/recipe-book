@@ -1,6 +1,6 @@
 ---
 title: "Lao gan ma noodles"
-summary: "The godmother of all godmother sauces"
+summary: "Quick and easy spicy/bitter balanced"
 date: 2026-02-08T14:14:19-08:00
 draft: false
 total_time: "25m"
@@ -25,10 +25,10 @@ tags: ["vegan"]
 | 3 tbsp | Za-cai (pickled mustard stems, finely chopped) | 
 | 3 tbsp | Oil | 
 | 200 g | Wide chinese noodle | 
-| 1 cup | Leafy greens of choice | 
+| 1 cup | Leafy greens or brassica of choice (rapini, gai lan) | 
 | 1/3 cup | Raw peanuts | 
 
-#### Garnishes 
+### Garnishes 
 
 Cilantro, peanuts, toasted sesame seeds 
 
