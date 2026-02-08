@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/recipe-book/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-08T12:38:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/</loc>
+    <loc>http://localhost:1313/recipes/</loc>
     <lastmod>2026-02-08T12:38:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/red-velvet-soup/</loc>
+    <loc>http://localhost:1313/recipes/red-velvet-soup/</loc>
     <lastmod>2026-02-08T12:38:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-08T12:38:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/vegan/</loc>
+    <loc>http://localhost:1313/tags/vegan/</loc>
     <lastmod>2026-02-08T12:38:16-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/miso-butter-greens/</loc>
+    <loc>http://localhost:1313/recipes/miso-butter-greens/</loc>
     <lastmod>2026-02-06T13:21:33-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/daily-dal/</loc>
+    <loc>http://localhost:1313/recipes/daily-dal/</loc>
     <lastmod>2026-02-06T13:20:49-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/fish/</loc>
+    <loc>http://localhost:1313/tags/fish/</loc>
     <lastmod>2026-02-06T12:20:10-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/white-fish-with-gremolata/</loc>
+    <loc>http://localhost:1313/recipes/white-fish-with-gremolata/</loc>
     <lastmod>2026-02-06T12:20:10-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/stuffed-sweet-potatoes/</loc>
+    <loc>http://localhost:1313/recipes/stuffed-sweet-potatoes/</loc>
     <lastmod>2026-02-06T12:16:37-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/dressing/</loc>
+    <loc>http://localhost:1313/tags/dressing/</loc>
     <lastmod>2025-08-18T15:47:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/mustard-shallot-vinaigrette/</loc>
+    <loc>http://localhost:1313/recipes/mustard-shallot-vinaigrette/</loc>
     <lastmod>2025-08-18T15:47:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/easy-yakisoba/</loc>
+    <loc>http://localhost:1313/recipes/easy-yakisoba/</loc>
     <lastmod>2025-08-18T15:46:36-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
