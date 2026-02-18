@@ -10,11 +10,10 @@ tags: []
 
 ## Ingredients
 
-##### Yield:
-
 | Unit | Item |
 | ---- | ---- |
 | 2 tsp | Soy sauce | 
+| 1/2 lb (~227g) | Impossible beef |
 | 4 tbsp | Pixian chili bean paste, minced (Doubanjiang) |
 | 4 ea | Garlic, minced | 
 | 3 tsp | Chili flake | 

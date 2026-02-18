@@ -6,8 +6,15 @@
     <description>Recent content on recipe book</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2026 14:14:19 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 17:43:06 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapo tofu</title>
+      <link>http://localhost:1313/recipes/mapo-tofu/</link>
+      <pubDate>Tue, 17 Feb 2026 17:43:06 -0800</pubDate>
+      <guid>http://localhost:1313/recipes/mapo-tofu/</guid>
+      <description>&amp;ldquo;Sheldo style&amp;rdquo; ma-po tofu. Quick and easy</description>
+    </item>
     <item>
       <title>Lao gan ma noodles</title>
       <link>http://localhost:1313/recipes/lao-gan-ma-noodles/</link>
