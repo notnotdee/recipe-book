@@ -52,8 +52,13 @@ Refrigerate for at least 30 minutes—ideally several hours. Then taste it on wa
 #### Step 5: Adjustments
 
 Too lemony: Add 1 tablespoon chickpeas, 1 tablespoon nutritional yeast, and a splash of water.
-Flat or vaguely “healthy”: It almost certainly needs more salt—add it a pinch at a time.
+
+Too flat or bland: It almost certainly needs more salt—add it a pinch at a time.
+
 Too much like hummus: Add another tablespoon oil and enough water to loosen it.
+
 Too sharp/raw: Leave it overnight; raw garlic softens considerably.
+
 Missing richness: Add another teaspoon of tahini.
+
 Bitter: Your olive oil may be too assertive. Replace half of it with avocado, grapeseed, or another neutral oil next time.
